@@ -36,7 +36,7 @@
 # print('h9ty'.isalnum())
 # print('@48%$%'.isalnum())
 
-print('hellopython'.find('o')) 
-print('hellopython'.find('o', 6)) 
-print('hellopython'.find('o' ,2)) 
-print('hellopython'.find('h' ,5)) 
+# print('hellopython'.find('o')) 
+# print('hellopython'.find('o', 6)) 
+# print('hellopython'.find('o' ,2)) 
+# print('hellopython'.find('h' ,5)) 
